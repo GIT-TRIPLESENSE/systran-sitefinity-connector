@@ -225,7 +225,7 @@ namespace Progress.Sitefinity.Translations
         internal const string EnglishToPortugueseProfile = "englishToPortugueseProfile";
         internal const string EnglishToPolishProfile = "englishToPolishProfile";
         internal const string EnglishToSlovakProfile = "englishToSlovakProfile";
-        internal const string NoApiKeyExceptionMessage = "No API key configured for Systran translations connector."        
+        internal const string NoApiKeyExceptionMessage = "No API key configured for Systran translations connector.";        
 
         private const int MaxBatchItems = 50000;
         private const int MaxBatchBytes = 40 * 1024 * 1024;
